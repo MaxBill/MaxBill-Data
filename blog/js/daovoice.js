@@ -11,11 +11,11 @@
 })(window, document, "script", ('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/7c624f76.js", "daovoice");
 
 daovoice('init', {
-    app_id: "7c624f76",
-    user_id: "NO_89757",
-    email: "maxbill1993@163.com",
-    name: "MaxBill",
-    signed_up: 1449821660
+    app_id: "7c624f76"
+    // user_id: "NO_89757",
+    // email: "maxbill1993@163.com",
+    // name: "MaxBill",
+    // signed_up: 1449821660
 });
 
 daovoice('update');
